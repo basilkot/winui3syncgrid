@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PerformanceExample (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PerformanceExample (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
